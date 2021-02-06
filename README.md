@@ -1,4 +1,4 @@
-### This project has some abstractions and examples of our development processes.
+### В этом проекте есть некоторые абстракции и примеры наших процессов разработки.
 
 Mainly we write our code using only function components and hooks (React 16.8.0 and above). 
 Also in some rare cases we use sagas for more complex pages and components.
